@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+body{
+    background-color:#ffffff;
+}
+
+header{
+    height: 100vh;
+    margin-bottom: 120px;
+    
+    
+}
+
+
+header
+.conteudo-topo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;    
+}
+
+header
+.conteudo-topo
+.conteudo
+.titulo{
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 55px;
+}
+
+header
+.conteudo-topo
+.conteudo
+.paragrafo{
+    font-size: 20px;
+    max-width: 480px;
+    font-weight: 600;
+}
+
+header
+.conteudo-topo
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+header
+.conteudo-topo
+.conteudo
+.buton conecte{
+    font-size: 15px;
+}
+
+header
+.banner-topo{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+}
+
+
+header
+.topo{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-bottom: 60px;
+
+}
+
+header
+.topo
+ul{
+    display: flex;
+    gap: 40px;
+
+}
+
+header
+.topo
+.logo-topo {
+    
+
+}
+
+.text-white{
+    color: #ffffff;
+}
+
+.container{
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.buton{
+    background-color: #FF055E;
+    padding: 20px 60px;
+    border-radius: 30px;
+    width: max-content;
+    
+
+}
+
+footer{
+    background-color: #C32145;
+    text-align: center;  
+}
+
+footer p{
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #ffffff;
+}
